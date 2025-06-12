@@ -2,4 +2,4 @@
 Integrantes:
 - Camila Caicedo
 - Joel
-- Kenneth
+- Kenneth Yar
